@@ -1,3 +1,3 @@
 # My CV
-[Резюме](www.github.com/sergalb/CV)
+[Резюме](Резюме.pdf)
 
